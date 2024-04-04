@@ -1,0 +1,1 @@
+Informe o nome completo: Informe o CPF:  Informe o tipo de conta: Informe o valor: Informe a senha: 
